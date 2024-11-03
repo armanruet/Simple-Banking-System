@@ -119,12 +119,12 @@ The system implements the Luhn algorithm (also known as the "modulus 10" or "mod
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/advanced-banking-system.git
+git clone https://github.com/armanruet/Simple-Banking-System.git
 ```
 
 2. Install dependencies:
 ```bash
-cd advanced-banking-system
+cd Simple-Banking-System
 pip install sqlite3
 ```
 
